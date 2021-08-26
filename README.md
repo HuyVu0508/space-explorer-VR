@@ -1,2 +1,2 @@
-# space-explorer-VR
-VR game project for space exploring and solving quests.
+# VR Small Project - Space Explorer 
+A small fun game to get into VR,trying 
