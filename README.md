@@ -12,6 +12,9 @@ It comprises of 4 scences with 4 different missions: starting with flying your s
   - To steer left and right: rotating (rotating the wrists, not the thumbsticks) BOTH controllers to the right or left more than 20 degrees.
   - To accelerate and decelerate: pressing button “B” to accelerate and “A” to decelerate. 
 - Player will drive the spaceship to the cargo to retrieve the packages, marked with symbol “white round cross” on the minimap.
+<p align="center">
+  <img width="500" src="../master/images/mission1.png">
+</p>
 
 
 ## CargoScene (collecting floating packages task):
