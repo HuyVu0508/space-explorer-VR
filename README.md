@@ -6,7 +6,7 @@ It comprises of 4 scences with 4 different missions: starting with flying your s
 
 [![IMAGE ALT TEXT HERE]()](https://www.youtube.com/watch?v=aW6i9LRc9jQ)
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=aW6i9LRc9jQ)
+[![Demo CountPages alpha](http://img.youtube.com/vi/aW6i9LRc9jQ/0.jpg)](https://www.youtube.com/watch?v=aW6i9LRc9jQ)
 
 # Scenes Instructions:
 ## SpaceshipScene (driving task):
