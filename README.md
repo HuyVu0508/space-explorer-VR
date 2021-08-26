@@ -5,8 +5,8 @@ It comprises of 4 scences with 4 different missions: starting with flying your s
 
 Check out the demo video here: https://www.youtube.com/watch?v=aW6i9LRc9jQ
 
-# Scenes Instructions:
-## SpaceshipScene (driving task):
+## Scenes Instructions
+### SpaceshipScene (driving mission)
 - Player goes to the cockpit position, a minimap automatically turns on showing the location of the player. It shows the exact position of spaceship in the space.
 - Controlling spaceship:
   - To steer left and right: rotating (rotating the wrists, not the thumbsticks) BOTH controllers to the right or left more than 20 degrees.
@@ -17,7 +17,7 @@ Check out the demo video here: https://www.youtube.com/watch?v=aW6i9LRc9jQ
 </p>
 
 
-## CargoScene (collecting floating packages task):
+### CargoScene (retrieving packages mission)
 - The Spaceship is in front of the cargo with 4 floating boxes to be collected. 
 - To get a package:
   - To retrieve a package, point the PRIMARY controller to the object and keep hitting the “trigger” button. The package will move step-by-step closer to the window. 
@@ -29,7 +29,7 @@ Check out the demo video here: https://www.youtube.com/watch?v=aW6i9LRc9jQ
 
 
 
-## ToolsRoomScene (collecting tools task):
+### ToolsRoomScene (collecting tools mission)
 - Mission: Collect 2 tools for further mission (hammer and saw).
 - Put tools in the wooden box (wooden box automatically follows player). If the tools are dropped outside of the box, they return to the shelf.
 <p align="center">
@@ -38,7 +38,7 @@ Check out the demo video here: https://www.youtube.com/watch?v=aW6i9LRc9jQ
 
 
 
-## GreenHouseScene (complete 2 mission):
+### GreenHouseScene (building mission)
 - Mission: 
 Collect the 2 boxes lying around the room and put them at the corner of the greenhouse.
 - Use the saw to cut off 3 unwanted palm-trees grown disorderly around the greenhouse. 
