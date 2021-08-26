@@ -5,6 +5,8 @@ It comprises of 4 scences with 4 different missions: starting with flying your s
 
 Check out the demo video here: https://www.youtube.com/watch?v=aW6i9LRc9jQ
 
+Enjoy!
+
 ## Scenes Instructions
 ### SpaceshipScene (driving mission)
 - Player goes to the cockpit position, a minimap automatically turns on showing the location of the player. It shows the exact position of spaceship in the space.
