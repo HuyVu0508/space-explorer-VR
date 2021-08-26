@@ -6,15 +6,15 @@ It comprises of 4 scences with 4 different missions: starting with flying your s
 Check out the and images videos below to see demos.
 
 
-Scenes Instructions:
-SpaceshipScene (driving task):
+# Scenes Instructions:
+## SpaceshipScene (driving task):
 
 
-Player goes to the cockpit position, a minimap automatically turns on showing the location of the player. It shows the exact position of spaceship in the space.
-Controlling spaceship:
-To steer left and right: rotating (rotating the wrists, not the thumbsticks) BOTH controllers to the right or left more than 20 degrees.
-To accelerate and decelerate: pressing button “B” to accelerate and “A” to decelerate. 
-Player will drive the spaceship to the cargo to retrieve the packages, marked with symbol “white round cross” on the minimap.
+- Player goes to the cockpit position, a minimap automatically turns on showing the location of the player. It shows the exact position of spaceship in the space.
+- Controlling spaceship:
+  - To steer left and right: rotating (rotating the wrists, not the thumbsticks) BOTH controllers to the right or left more than 20 degrees.
+  - To accelerate and decelerate: pressing button “B” to accelerate and “A” to decelerate. 
+- Player will drive the spaceship to the cargo to retrieve the packages, marked with symbol “white round cross” on the minimap.
 
 CargoScene (collecting floating packages task):
 
