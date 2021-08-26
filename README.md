@@ -7,6 +7,11 @@ Check out the demo video here: https://www.youtube.com/watch?v=aW6i9LRc9jQ
 
 Enjoy!
 
+<p align="center">
+  <img width="600" src="images/mission0.png">
+</p>
+
+
 ## Scenes Instructions
 ### SpaceshipScene (driving mission)
 - Player goes to the cockpit position, a minimap automatically turns on showing the location of the player. It shows the exact position of spaceship in the space.
