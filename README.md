@@ -4,7 +4,7 @@ A small fun game to get into VR, trying out the magic of VR to transport you int
 It comprises of 4 scences with 4 different missions: starting with flying your spaceship through the sun to reach the dropped cargos from a wrecked ship, then collecting your cargos floating around you. Then moving to the next scene where you collect tools from the cargo for the building mission. Lastly, you are in a greenhouse on Mars collecting stuffs and taking care of trees. Check out the demo video below.
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aW6i9LRc9jQ&t/0.jpg)](https://www.youtube.com/watch?v=aW6i9LRc9jQ&t)
+[![IMAGE ALT TEXT HERE]()](https://www.youtube.com/watch?v=aW6i9LRc9jQ&t)
 
 
 # Scenes Instructions:
