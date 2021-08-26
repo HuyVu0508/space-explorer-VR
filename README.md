@@ -23,11 +23,19 @@ It comprises of 4 scences with 4 different missions: starting with flying your s
   - To retrieve a package, point the PRIMARY controller to the object and keep hitting the “trigger” button. The package will move step-by-step closer to the window. 
   - When hovering the pointer on the packages, the notification text notifies which package is selected.
 - If the package is close enough to the spaceship, it will be collected, a notification will be shown in the Text field on canvas.
+<p align="center">
+  <img width="300" src="images/mission2.png">
+</p>
+
 
 
 ## ToolsRoomScene (collecting tools task):
 - Mission: Collect 2 tools for further mission (hammer and saw).
 - Put tools in the wooden box (wooden box automatically follows player). If the tools are dropped outside of the box, they return to the shelf.
+<p align="center">
+  <img width="300" src="images/mission3.png">
+</p>
+
 
 
 ## GreenHouseScene (complete 2 mission):
@@ -35,3 +43,7 @@ It comprises of 4 scences with 4 different missions: starting with flying your s
 Collect the 2 boxes lying around the room and put them at the corner of the greenhouse.
 - Use the saw to cut off 3 unwanted palm-trees grown disorderly around the greenhouse. 
 - Player can travel around the greenhouse with laser teleportation. Point the laser to the ground then hit “trigger”. Player will teleport to the exact point on the floor.
+<p align="center">
+  <img width="300" src="images/mission4.png">
+</p>
+
